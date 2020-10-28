@@ -1,0 +1,111 @@
+[
+    [
+        {
+            "Produto": "Placa Mãe",
+            "Preço": "589.90"
+        },
+        {
+            "Produto": "Mouse",
+            "Preço": "64.99"
+        },
+        {
+            "Produto": "Cooler",
+            "Preço": "49.99"
+        }
+    ],
+    [
+        {
+            "Produto": "Monitor(Ultra Wide)",
+            "Preço": "899.99"
+        },
+        {
+            "Produto": "Processador",
+            "Preço": "1549.99"
+        },
+        {
+            "Produto": "Gabinete",
+            "Preço": "450"
+        },
+        {
+            "Produto": "SSD",
+            "Preço": "579.90"
+        },
+        {
+            "Produto": "Placa Bluetooth",
+            "Preço": "120"
+        },
+        {
+            "Produto": "LED",
+            "Preço": "50"
+        }
+    ],
+    [
+        {
+            "Produto": "Memoria RAM",
+            "Preço": "470"
+        },
+        {
+            "Produto": "Placa de vídeo",
+            "Preço": "1290.50"
+        },
+        {
+            "Produto": "HD(1TB)",
+            "Preço": "366.70"
+        }
+    ],
+    [
+        {
+            "Produto": "Memoria RAM",
+            "Preço": "470"
+        },
+        {
+            "Produto": "Placa de vídeo",
+            "Preço": "1290.50"
+        },
+        {
+            "Produto": "HD(1TB)",
+            "Preço": "366.70"
+        }
+    ],
+    [
+        {
+            "Produto": "Memoria RAM",
+            "Preço": "470"
+        },
+        {
+            "Produto": "Placa de vídeo",
+            "Preço": "1290.50"
+        },
+        {
+            "Produto": "HD(1TB)",
+            "Preço": "366.70"
+        }
+    ],[
+        {
+            "Produto": "Memoria RAM",
+            "Preço": "470"
+        },
+        {
+            "Produto": "Placa de vídeo",
+            "Preço": "1290.50"
+        },
+        {
+            "Produto": "HD(1TB)",
+            "Preço": "366.70"
+        }
+    ],
+    [
+        {
+            "Produto": "Memoria RAM",
+            "Preço": "470"
+        },
+        {
+            "Produto": "Placa de vídeo",
+            "Preço": "1290.50"
+        },
+        {
+            "Produto": "HD(1TB)",
+            "Preço": "366.70"
+        }
+    ]
+]

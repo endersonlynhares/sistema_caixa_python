@@ -1,0 +1,46 @@
+body{
+    font-family: 'Trebuchet MS';
+    background-color: rgb(247, 247, 247);
+    text-align: center;
+}
+
+main{
+    text-align: center;
+    width: 900px;
+    margin: auto;
+}
+
+#container{
+    display: flex;
+    text-align: center;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+header{
+    border-radius: 5px;
+    padding: 5px 8px;
+    font-weight: 800;
+    background-color: rgba(128, 128, 128, 0.349);
+}
+
+.box_model{
+    flex-basis: 2;
+    margin: 10px;
+    padding: 7px;
+    border: 1px solid rgba(59, 59, 59, 0.39);
+    border-radius: 7px;
+    background-color: white;
+    box-sizing: border-box;
+    width: 180px;
+}
+
+ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+li{
+    padding-bottom: 10px;
+}
