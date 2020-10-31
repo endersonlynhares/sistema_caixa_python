@@ -39,7 +39,7 @@ while True:
         total_vendas.append(total_produtos)
         sg.popup("VENDA FINALIZADA! VEJA O JSON ou o SITE")
         print("###COMPRA FINALIZADA###")
-        with open("vendas.json",'w', encoding='utf-8') as f:
+        with open("config/vendas.json",'w', encoding='utf-8') as f:
             json.dump(total_vendas,f, ensure_ascii=False, indent=4)
 
         total_produtos = []
